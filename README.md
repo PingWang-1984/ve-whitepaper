@@ -10,7 +10,7 @@
 - **Timestamps** — Exist-time and observe-time as distinct conditions
 - **Versioning** — Every adjudication is traceable and revisable
 
-📄 **[Read the Whitepaper](https://github.com/PingWang-1984/ve-whitepaper)** · 📘 **[Glossary](GLOSSARY.md)** · 📊 **[Appendices](APPENDICES.md)**
+The full whitepaper is available in the release assets or at the top level of this repository.
 
 ---
 
