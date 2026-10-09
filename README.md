@@ -10,7 +10,7 @@
 - **Timestamps** — Exist-time and observe-time as distinct conditions
 - **Versioning** — Every adjudication is traceable and revisable
 
-The full whitepaper is available in the release assets or at the top level of this repository.
+The full whitepaper is available in the [Releases](https://github.com/PingWang-1984/ve-whitepaper/releases) section.
 
 ---
 
@@ -21,7 +21,7 @@ This repository is released under a **multi-license model**. Please choose the l
 | Use Case | License | Description |
 |----------|---------|-------------|
 | **General / Open Source** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Free to share and adapt, with attribution and share-alike. |
-| **Academic Use** | [Academic Use Agreement](Academic-Licensing.md) | For research, teaching, and academic publication. Share-alike waived for academic publishing. |
+| **Academic Use** | [Academic Use Agreement](Academic-Use-Agreement.md) | For research, teaching, and academic publication. Share-alike waived for academic publishing. |
 | **Commercial Use** | [Commercial Licensing](COMMERCIAL.md) | For closed-source integration, paid services, or commercial products. Requires a separate license. |
 
 For full details, see the individual license files in this repository.
